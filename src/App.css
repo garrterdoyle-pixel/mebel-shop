@@ -1,0 +1,16 @@
+.zakaz {
+  background-image: url("/shkaf.png");
+  width: 1440px;
+  height: 1024px;
+  background-repeat: no-repeat;
+  color: white;
+}
+
+
+.btn-brown {
+  background-color: #9b7b5a;
+  border: none;
+}
+.btn-brown:hover {
+  background-color: #7a6048;
+}
